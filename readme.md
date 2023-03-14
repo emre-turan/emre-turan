@@ -20,7 +20,7 @@
 <img width="30" height="30" src="./logo/icons8-javascript.svg" align="left"/>
 <img width="30" height="30" src="./logo/icons8-nodejs.svg" align="left"/>
 <img width="30" height="30" src="./logo/react-2.svg" align="left"/>
-<img width="30" height="30" margin-bottom="-1px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" align="left"/>
+<img width="30" height="30" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" align="left"/>
 <img width="30" height="30" src="./logo/icons8-sass.svg" align="left"/>
 <img width="30" height="30" src="./logo/icons8-bootstrap.svg" align="left"/>
 <img width="30" height="30" src="./logo/tailwindcss.svg" align="left"/>
