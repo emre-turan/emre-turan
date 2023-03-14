@@ -16,3 +16,6 @@
 🎵 Outside of coding, I'm a musician and DJ, exploring various genres and sharing my love for music with others. I take great pleasure in creating unique mixes and discovering new tracks to add to my collection. Additionally, I enjoy immersing myself in movies and TV shows, always on the lookout for captivating stories and unforgettable characters.
 
 🌐 Being proficient in English and Turkish, I am eager to collaborate with clients worldwide. If you have a project you believe I could assist with, feel free to contact me through LinkedIn or email. I'm excited to work with you!
+
+[linkedin]: https://www.linkedin.com/in/emre-turan/
+[gmail]: mailto:itsemreturan@gmail.com
