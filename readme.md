@@ -2,12 +2,10 @@
 
 🔧 I excel in crafting web applications and websites using an array of languages and frameworks, such as:
 
-
 - Node.js
 - JavaScript
 - Next.js
 - React
-
 
 🎨 Moreover, I have hands-on experience with UI libraries like Tailwind, Material-UI, and Bootstrap, enabling me to build eye-catching and user-centric interfaces.
 
@@ -16,6 +14,15 @@
 🎵 Outside of coding, I'm a musician and DJ, exploring various genres and sharing my love for music with others. I take great pleasure in creating unique mixes and discovering new tracks to add to my collection. Additionally, I enjoy immersing myself in movies and TV shows, always on the lookout for captivating stories and unforgettable characters.
 
 🌐 Being proficient in English and Turkish, I am eager to collaborate with clients worldwide. If you have a project you believe I could assist with, feel free to contact me through LinkedIn or email. I'm excited to work with you!
+
+<img width="25" src="./logo/icons8-linkedin.svg" align="left"/> [linkedin]
+<img width="25" src="./logo/icons8-gmail-logo.svg" align="left"/> [gmail]
+<img width="25" src="./logo/icons8-javascript.svg" align="left"/>
+<img width="25" src="./logo/icons8-nodejs.svg" align="left"/>
+<img width="25" src="./logo/icons8-react-native.svg" align="left"/>
+<img width="25" src="./logo/nextjs-icon-svgrepo-com.svg" align="left"/>
+<img width="25" src="./logo/icons8-sass.svg" align="left"/>
+<img width="25" src="./logo/icons8-bootstrap.svg" align="left"/>
 
 [linkedin]: https://www.linkedin.com/in/emre-turan/
 [gmail]: mailto:itsemreturan@gmail.com
