@@ -15,14 +15,15 @@
 
 🌐 Being proficient in English and Turkish, I am eager to collaborate with clients worldwide. If you have a project you believe I could assist with, feel free to contact me through LinkedIn or email. I'm excited to work with you!
 
-<img width="25" src="./logo/icons8-linkedin.svg" align="left"/> [linkedin]
-<img width="25" src="./logo/icons8-gmail-logo.svg" align="left"/> [gmail]
-<img width="25" src="./logo/icons8-javascript.svg" align="left"/>
-<img width="25" src="./logo/icons8-nodejs.svg" align="left"/>
-<img width="25" src="./logo/icons8-react-native.svg" align="left"/>
-<img width="25" src="./logo/nextjs-icon-svgrepo-com.svg" align="left"/>
-<img width="25" src="./logo/icons8-sass.svg" align="left"/>
-<img width="25" src="./logo/icons8-bootstrap.svg" align="left"/>
+[<img width="30" src="./logo/icons8-linkedin.svg" align="left"/>][linkedin]
+[<img width="30" src="./logo/icons8-gmail-logo.svg" align="left"/>][gmail]
+<img width="30" src="./logo/icons8-javascript.svg" align="left"/>
+<img width="30" src="./logo/icons8-nodejs.svg" align="left"/>
+<img width="30" src="./logo/icons8-react-native.svg" align="left"/>
+<img width="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="left"/>
+<img width="25" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/full/nextjs.png" align="left"/>
+<img width="30" src="./logo/icons8-sass.svg" align="left"/>
+<img width="30" src="./logo/icons8-bootstrap.svg" align="left"/>
 
 [linkedin]: https://www.linkedin.com/in/emre-turan/
 [gmail]: mailto:itsemreturan@gmail.com
