@@ -15,8 +15,8 @@
 
 🌐 Being proficient in English and Turkish, I am eager to collaborate with clients worldwide. If you have a project you believe I could assist with, feel free to contact me through LinkedIn or email. I'm excited to work with you!
 
-[<img width="30" src="./logo/icons8-linkedin.svg" align="left"/>][linkedin]
-[<img width="30" src="./logo/icons8-gmail-logo.svg" align="left"/>][gmail]
+[<img width="30" height="30" src="./logo/icons8-linkedin.svg" align="left"/>][linkedin]
+[<img width="30" height="30" src="./logo/icons8-gmail-logo.svg" align="left"/>][gmail]
 <img width="30" height="30" src="./logo/icons8-javascript.svg" align="left"/>
 <img width="30" height="30" src="./logo/icons8-nodejs.svg" align="left"/>
 <img width="30" height="30" src="./logo/react-2.svg" align="left"/>
