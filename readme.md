@@ -2,10 +2,11 @@
 
 🔧 I excel in crafting web applications and websites using an array of languages and frameworks, such as:
 
-Node.js
-JavaScript
-Next.js
-React
+-Node.js
+-JavaScript
+-Next.js
+-React
+
 
 🎨 Moreover, I have hands-on experience with UI libraries like Tailwind, Material-UI, and Bootstrap, enabling me to build eye-catching and user-centric interfaces.
 
