@@ -7,6 +7,7 @@
 - Typescript
 - Node.js
 - JavaScript
+- MongoDB
 
 🎨 Moreover, I have hands-on experience with UI libraries like Tailwind, Material-UI, and Bootstrap, enabling me to build eye-catching and user-centric interfaces.
 
