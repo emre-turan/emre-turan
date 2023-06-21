@@ -1,4 +1,4 @@
-👋 Hello there! My name is Emre, and I'm a passionate Software Developer.
+👋 Hello there! My name is Emre, and I'm a passionate Software Developer, DJ, and minimalist.
 
 🔧 I excel in crafting web applications and websites using an array of languages and frameworks, such as:
 
