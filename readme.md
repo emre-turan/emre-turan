@@ -17,8 +17,8 @@
 
 #### 🌐 &nbsp; Connect with me &nbsp;
 
-[![linkedin](https://img.shields.io/badge/-bilalkarakollu-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-turan/)&nbsp;
-[![gmail](https://img.shields.io/badge/-karakollubilal@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:itsemreturan@gmail.com)&nbsp;
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-turan/)&nbsp;
+[![gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:itsemreturan@gmail.com)&nbsp;
 
 #### 🛠️ &nbsp; Tech Stack &nbsp;
 
