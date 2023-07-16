@@ -1,10 +1,11 @@
 # hello/merhaba. 
 
-I'm Emre, and I'm a passionate [Software Developer](https://www.linkedin.com/in/emre-turan/) and [Musician/DJ](https://soundcloud.com/jiwamusic).
+I'm Emre, and here's a little about me:
 
-* As a dedicated developer, I love tackling complex problems and delivering top-notch solutions. Keeping up with the latest trends and technologies in web development is a priority for me.
-
-* Outside of coding, I'm a musician and DJ. I take great pleasure in creating unique mixes and discovering new tracks to add to my collection. Additionally, I enjoy immersing myself in movies and TV shows, always on the lookout for captivating stories and unforgettable characters.
+* Developer by day, DJ by night. I juggle between crafting top-tier code and dropping fresh beats.
+* Avid movie and TV show consumer, always on the lookout for the next captivating plot twist.
+* Keeping up with the latest in web dev, one line of code at a time.
+* Living in the rhythm of music and code.
 
 find out more at [emreturan.dev](https://emreturan.dev) | [gmail](mailto:itsemreturan@gmail.com) | [twitter](https://twitter.com/EmreTuran_) | [linkedin](https://www.linkedin.com/in/emre-turan/)
 
