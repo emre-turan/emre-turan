@@ -1,4 +1,4 @@
-# Hello / Merhaba. 
+# hello/merhaba. 
 
 I'm Emre, and I'm a passionate [Software Developer](https://www.linkedin.com/in/emre-turan/) and [Musician/DJ](https://soundcloud.com/jiwamusic).
 
