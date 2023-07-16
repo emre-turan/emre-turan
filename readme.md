@@ -6,6 +6,6 @@ I'm Emre, and I'm a passionate [Software Developer](https://www.linkedin.com/in/
 
 * Outside of coding, I'm a musician and DJ. I take great pleasure in creating unique mixes and discovering new tracks to add to my collection. Additionally, I enjoy immersing myself in movies and TV shows, always on the lookout for captivating stories and unforgettable characters.
 
-find out more at [emreturan.dev](https://emreturan.dev) | [Gmail](mailto:itsemreturan@gmail.com) | [twitter](https://twitter.com/EmreTuran_) | [Linkedin](https://www.linkedin.com/in/emre-turan/)
+find out more at [emreturan.dev](https://emreturan.dev) | [gmail](mailto:itsemreturan@gmail.com) | [twitter](https://twitter.com/EmreTuran_) | [linkedin](https://www.linkedin.com/in/emre-turan/)
 
 
