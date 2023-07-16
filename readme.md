@@ -1,15 +1,12 @@
-👋 Hello there! My name is Emre, and I'm a passionate Software Developer and Musician.
+# Hello/Merhaba. 
 
-🚀 As a dedicated developer, I love tackling complex problems and delivering top-notch solutions. Keeping up with the latest trends and technologies in web development is a priority for me.
+I'm Emre, and I'm a passionate [Software Developer](https://www.linkedin.com/in/emre-turan/) and [Musician/DJ](https://soundcloud.com/jiwamusic).
 
-🎵 Outside of coding, I'm a musician and DJ. I take great pleasure in creating unique mixes and discovering new tracks to add to my collection. Additionally, I enjoy immersing myself in movies and TV shows, always on the lookout for captivating stories and unforgettable characters.
+* As a dedicated developer, I love tackling complex problems and delivering top-notch solutions. Keeping up with the latest trends and technologies in web development is a priority for me.
 
-#### 🌐 &nbsp; Connect with me &nbsp;
+* Outside of coding, I'm a musician and DJ. I take great pleasure in creating unique mixes and discovering new tracks to add to my collection. Additionally, I enjoy immersing myself in movies and TV shows, always on the lookout for captivating stories and unforgettable characters.
 
-[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-turan/)&nbsp;
-[![gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:itsemreturan@gmail.com)&nbsp;
-
-#### 🛠️ &nbsp; Tech Stack &nbsp;
+## 🛠️ &nbsp; Tech Stack &nbsp;
 
 ![Typescript](https://img.shields.io/badge/-TypeScript-3F4B55?style=flat&logo=Typescript&logoColor=3178C6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-3F4B55.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
