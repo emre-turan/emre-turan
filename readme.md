@@ -1,4 +1,4 @@
-# hello/merhaba. 
+# hello. 
 
 I'm Emre, and here's a little about me:
 
