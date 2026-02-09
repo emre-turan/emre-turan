@@ -7,6 +7,6 @@ In a nutshell,
 * Keeping up with the latest in web dev, one line of code at a time.
 * Living in the rhythm of music and code.
 
-find out more at [emreturan.dev](https://emreturan.dev) | [twitter](https://twitter.com/EmreTuran_) | [linkedin](https://www.linkedin.com/in/emre-turan/)
+find out more at [emreturan.dev](https://emreturan.dev) | [twitter/X](https://twitter.com/EmreTuran_) | [linkedin](https://www.linkedin.com/in/emre-turan/)
 
 
